@@ -1,0 +1,607 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 799 523" width="799" height="523">
+<rect id="background" x="0" y="0" width="799" height="523" style="fill: #ffffff;"/>
+<g id="grid">
+<path id="grid-vert-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523 m 14,-523 V 523"/>
+<path id="grid-hori-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799 m -799,18 H 799"/>
+<path id="grid-frame" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,0.5 H 798.5 V 522.5 H 0.5 V 0.5 z" fill="none"/>
+<path id="grid-vert-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 14.5,0.5 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523 m 70,-523 V 523"/>
+<path id="grid-hori-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,18.5 H 799 m -799,90 H 799 m -799,90 H 799 m -799,90 H 799 m -799,90 H 799 m -799,90 H 799"/>
+</g>
+<g id="layers">
+<g id="Layer 1" transform="translate(0 0)">
+<g transform="translate(168 90)">
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="70" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="70" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="70" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="288"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="270"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="252"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="234"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="234"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="180"/>
+</g>
+<g transform="translate(126 108)">
+<use xlink:href="#2-000000" href="#2-000000" x="252" y="-90"/>
+<use xlink:href="#6-000000" href="#6-000000" x="224" y="-72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="-54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="280" y="-54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="168" y="-36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="308" y="-36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="140" y="-18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="-18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="112" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="364" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="84" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="392" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="56" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="420" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="28" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="448" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="0" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="476" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-28" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="504" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-56" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="532" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-84" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="560" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-112" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="588" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-84" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="560" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-56" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="532" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-28" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="504" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="0" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="476" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="28" y="234"/>
+<use xlink:href="#4-000000" href="#4-000000" x="448" y="234"/>
+<use xlink:href="#4-000000" href="#4-000000" x="56" y="252"/>
+<use xlink:href="#4-000000" href="#4-000000" x="420" y="252"/>
+<use xlink:href="#4-000000" href="#4-000000" x="84" y="270"/>
+<use xlink:href="#4-000000" href="#4-000000" x="392" y="270"/>
+<use xlink:href="#4-000000" href="#4-000000" x="112" y="288"/>
+<use xlink:href="#4-000000" href="#4-000000" x="364" y="288"/>
+<use xlink:href="#4-000000" href="#4-000000" x="140" y="306"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="306"/>
+<use xlink:href="#4-000000" href="#4-000000" x="168" y="324"/>
+<use xlink:href="#4-000000" href="#4-000000" x="308" y="324"/>
+<use xlink:href="#4-000000" href="#4-000000" x="196" y="342"/>
+<use xlink:href="#4-000000" href="#4-000000" x="280" y="342"/>
+<use xlink:href="#6-000000" href="#6-000000" x="224" y="360"/>
+<use xlink:href="#2-000000" href="#2-000000" x="252" y="378"/>
+</g>
+</g>
+</g>
+<defs>
+<line id="4-000000" x1="8.4" y1="9.5" x2="62.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="2-000000" x1="8.4" y1="9.5" x2="34.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="6-000000" x1="8.4" y1="9.5" x2="90.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+</defs>
+<foreignObject id="kogin-option" visibility="hidden">
+{
+ "output-screen": {
+  "noData": false,
+  "useXLink": true,
+  "useStyle": false,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": true,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 16,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": false,
+  "showCopyright": false,
+  "lineGrainLineWidth": 8,
+  "overGrainLineWidth": 8,
+  "overWarpLineWidth": 8,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "output-print": {
+  "noData": false,
+  "useXLink": true,
+  "useStyle": false,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": false,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 2,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": true,
+  "showCopyright": true,
+  "lineGrainLineWidth": 2,
+  "overGrainLineWidth": 2,
+  "overWarpLineWidth": 2,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "grid-screen": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 14,
+  "gridHeight": 18,
+  "gridLineWidth": 1,
+  "gridLineColor": "#00000020",
+  "gridMajorLineColor": "#00000050",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true
+ },
+ "grid-print": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 4,
+  "gridHeight": 5,
+  "gridLineWidth": 0.15,
+  "gridLineColor": "#999999",
+  "gridMajorLineColor": "#000000",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true
+ },
+ "bounds": {
+  "useOutputBounds": false,
+  "boundsLeft": 45,
+  "boundsRight": 93,
+  "boundsTop": 24,
+  "boundsBottom": 51
+ },
+ "pdf-export": {
+  "useOutputBounds": false,
+  "gridNumber": true,
+  "pageSize": "A4",
+  "landscape": false,
+  "leftMargin": 10,
+  "rightMargin": 10,
+  "topMargin": 17,
+  "bottomMargin": 12
+ },
+ "view": {
+  "viewMode": 3,
+  "crosshair": false,
+  "oneToOne": false,
+  "oneToTwo": false,
+  "stitchColor": "#000000",
+  "selectionColor": "#000000ff",
+  "cursorColor": "#ff0000ff",
+  "overlayStitchColor": "#999999",
+  "pivotColor": "#ff0000",
+  "openFromToolbar": "storage",
+  "saveFromToolbar": "local",
+  "askWhenClosing": false,
+  "zoomValue": 1
+ }
+}</foreignObject>
+<foreignObject id="kogin-data" visibility="hidden">
+{
+ "application": "kogin",
+ "data": [
+  {
+   "layer": true,
+   "name": "Layer 1",
+   "visible": true,
+   "locked": false,
+   "x": 0,
+   "y": 0,
+   "children": [
+    {
+     "x": 12,
+     "y": 5,
+     "children": [
+      {
+       "ref": "4-000000",
+       "coords": [
+        [
+         32,
+         15
+        ],
+        [
+         32,
+         14
+        ],
+        [
+         32,
+         13
+        ],
+        [
+         13,
+         15
+        ],
+        [
+         13,
+         14
+        ],
+        [
+         13,
+         13
+        ],
+        [
+         22,
+         21
+        ],
+        [
+         22,
+         20
+        ],
+        [
+         22,
+         19
+        ],
+        [
+         27,
+         18
+        ],
+        [
+         27,
+         17
+        ],
+        [
+         27,
+         16
+        ],
+        [
+         17,
+         18
+        ],
+        [
+         17,
+         17
+        ],
+        [
+         17,
+         16
+        ],
+        [
+         27,
+         10
+        ],
+        [
+         27,
+         11
+        ],
+        [
+         27,
+         12
+        ],
+        [
+         22,
+         7
+        ],
+        [
+         22,
+         8
+        ],
+        [
+         22,
+         9
+        ],
+        [
+         17,
+         10
+        ],
+        [
+         17,
+         11
+        ],
+        [
+         17,
+         12
+        ],
+        [
+         22,
+         13
+        ],
+        [
+         22,
+         14
+        ],
+        [
+         22,
+         15
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "x": 9,
+     "y": 6,
+     "children": [
+      {
+       "ref": "2-000000",
+       "coords": [
+        [
+         26,
+         0
+        ],
+        [
+         26,
+         26
+        ]
+       ]
+      },
+      {
+       "ref": "6-000000",
+       "coords": [
+        [
+         24,
+         1
+        ],
+        [
+         24,
+         25
+        ]
+       ]
+      },
+      {
+       "ref": "4-000000",
+       "coords": [
+        [
+         22,
+         2
+        ],
+        [
+         28,
+         2
+        ],
+        [
+         20,
+         3
+        ],
+        [
+         30,
+         3
+        ],
+        [
+         18,
+         4
+        ],
+        [
+         32,
+         4
+        ],
+        [
+         16,
+         5
+        ],
+        [
+         34,
+         5
+        ],
+        [
+         14,
+         6
+        ],
+        [
+         36,
+         6
+        ],
+        [
+         12,
+         7
+        ],
+        [
+         38,
+         7
+        ],
+        [
+         10,
+         8
+        ],
+        [
+         40,
+         8
+        ],
+        [
+         8,
+         9
+        ],
+        [
+         42,
+         9
+        ],
+        [
+         6,
+         10
+        ],
+        [
+         44,
+         10
+        ],
+        [
+         4,
+         11
+        ],
+        [
+         46,
+         11
+        ],
+        [
+         2,
+         12
+        ],
+        [
+         48,
+         12
+        ],
+        [
+         0,
+         13
+        ],
+        [
+         50,
+         13
+        ],
+        [
+         2,
+         14
+        ],
+        [
+         48,
+         14
+        ],
+        [
+         4,
+         15
+        ],
+        [
+         46,
+         15
+        ],
+        [
+         6,
+         16
+        ],
+        [
+         44,
+         16
+        ],
+        [
+         8,
+         17
+        ],
+        [
+         42,
+         17
+        ],
+        [
+         10,
+         18
+        ],
+        [
+         40,
+         18
+        ],
+        [
+         12,
+         19
+        ],
+        [
+         38,
+         19
+        ],
+        [
+         14,
+         20
+        ],
+        [
+         36,
+         20
+        ],
+        [
+         16,
+         21
+        ],
+        [
+         34,
+         21
+        ],
+        [
+         18,
+         22
+        ],
+        [
+         32,
+         22
+        ],
+        [
+         20,
+         23
+        ],
+        [
+         30,
+         23
+        ],
+        [
+         22,
+         24
+        ],
+        [
+         28,
+         24
+        ]
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "defs": {
+  "single": [
+   {
+    "length": "2",
+    "colors": [
+     "#000000"
+    ]
+   },
+   {
+    "length": "4",
+    "colors": [
+     "#000000"
+    ]
+   },
+   {
+    "length": "6",
+    "colors": [
+     "#000000"
+    ]
+   }
+  ]
+ },
+ "pivots": [],
+ "bbox": [
+  9,
+  6,
+  54,
+  27
+ ]
+}</foreignObject>
+<foreignObject id="kogin-metadata" visibility="hidden">
+{
+ "title": "型コ 27",
+ "title-en": "katako 27",
+ "creationDate": "2022-10-22 13:31",
+ "author": "",
+ "license": "",
+ "keyword": "",
+ "description": "",
+ "version": "",
+ "copyright": "",
+ "type": ""
+}</foreignObject>
+</svg>

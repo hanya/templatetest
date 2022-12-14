@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 575 379" width="575" height="379">
+<rect id="background" x="0" y="0" width="575" height="379" style="fill: #ffffff;"/>
+<g id="grid">
+<path id="grid-vert-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379 m 14,-379 V 379"/>
+<path id="grid-hori-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575 m -575,18 H 575"/>
+<path id="grid-frame" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,0.5 H 574.5 V 378.5 H 0.5 V 0.5 z" fill="none"/>
+<path id="grid-vert-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 14.5,0.5 V 379 m 70,-379 V 379 m 70,-379 V 379 m 70,-379 V 379 m 70,-379 V 379 m 70,-379 V 379 m 70,-379 V 379 m 70,-379 V 379 m 70,-379 V 379"/>
+<path id="grid-hori-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,18.5 H 575 m -575,90 H 575 m -575,90 H 575 m -575,90 H 575 m -575,90 H 575"/>
+</g>
+<g id="layers">
+<g id="Layer 1" transform="translate(0 0)">
+<g transform="translate(42 54)">
+<use xlink:href="#2-000000" href="#2-000000" x="224" y="-36"/>
+<use xlink:href="#2-000000" href="#2-000000" x="224" y="288"/>
+<use xlink:href="#6-000000" href="#6-000000" x="196" y="-18"/>
+<use xlink:href="#6-000000" href="#6-000000" x="196" y="270"/>
+<use xlink:href="#4-000000" href="#4-000000" x="168" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="252" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="140" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="280" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="112" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="308" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="84" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="56" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="364" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="28" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="392" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="0" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="420" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-28" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="448" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="0" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="420" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="28" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="392" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="56" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="364" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="84" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="112" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="308" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="140" y="234"/>
+<use xlink:href="#4-000000" href="#4-000000" x="280" y="234"/>
+<use xlink:href="#4-000000" href="#4-000000" x="168" y="252"/>
+<use xlink:href="#4-000000" href="#4-000000" x="252" y="252"/>
+</g>
+<use xlink:href="#2-000000" href="#2-000000" x="294" y="252"/>
+<use xlink:href="#2-000000" href="#2-000000" x="322" y="234"/>
+<use xlink:href="#2-000000" href="#2-000000" x="350" y="216"/>
+<use xlink:href="#2-000000" href="#2-000000" x="378" y="198"/>
+<use xlink:href="#2-000000" href="#2-000000" x="266" y="270"/>
+<use xlink:href="#2-000000" href="#2-000000" x="238" y="252"/>
+<use xlink:href="#2-000000" href="#2-000000" x="210" y="234"/>
+<use xlink:href="#2-000000" href="#2-000000" x="182" y="216"/>
+<use xlink:href="#2-000000" href="#2-000000" x="154" y="198"/>
+<use xlink:href="#2-000000" href="#2-000000" x="126" y="180"/>
+<use xlink:href="#2-000000" href="#2-000000" x="154" y="162"/>
+<use xlink:href="#2-000000" href="#2-000000" x="182" y="144"/>
+<use xlink:href="#2-000000" href="#2-000000" x="210" y="126"/>
+<use xlink:href="#2-000000" href="#2-000000" x="238" y="108"/>
+<use xlink:href="#2-000000" href="#2-000000" x="266" y="90"/>
+<use xlink:href="#2-000000" href="#2-000000" x="294" y="108"/>
+<use xlink:href="#2-000000" href="#2-000000" x="322" y="126"/>
+<use xlink:href="#2-000000" href="#2-000000" x="350" y="144"/>
+<use xlink:href="#2-000000" href="#2-000000" x="378" y="162"/>
+<use xlink:href="#2-000000" href="#2-000000" x="406" y="180"/>
+<use xlink:href="#2-000000" href="#2-000000" x="266" y="234"/>
+<use xlink:href="#2-000000" href="#2-000000" x="238" y="216"/>
+<use xlink:href="#2-000000" href="#2-000000" x="294" y="216"/>
+<use xlink:href="#2-000000" href="#2-000000" x="238" y="144"/>
+<use xlink:href="#2-000000" href="#2-000000" x="294" y="144"/>
+<use xlink:href="#2-000000" href="#2-000000" x="266" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="210" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="294" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="210" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="294" y="162"/>
+<use xlink:href="#6-000000" href="#6-000000" x="182" y="180"/>
+<use xlink:href="#6-000000" href="#6-000000" x="294" y="180"/>
+</g>
+</g>
+<defs>
+<line id="2-000000" x1="8.4" y1="9.5" x2="34.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="6-000000" x1="8.4" y1="9.5" x2="90.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="4-000000" x1="8.4" y1="9.5" x2="62.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+</defs>
+<foreignObject id="kogin-option" visibility="hidden">
+{
+ "output-screen": {
+  "noData": false,
+  "useXLink": true,
+  "useStyle": false,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": true,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 16,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": false,
+  "showCopyright": false,
+  "lineGrainLineWidth": 8,
+  "overGrainLineWidth": 8,
+  "overWarpLineWidth": 8,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "output-print": {
+  "noData": false,
+  "useXLink": true,
+  "useStyle": false,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": false,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 2,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": true,
+  "showCopyright": true,
+  "lineGrainLineWidth": 2,
+  "overGrainLineWidth": 2,
+  "overWarpLineWidth": 2,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "grid-screen": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 14,
+  "gridHeight": 18,
+  "gridLineWidth": 1,
+  "gridLineColor": "#00000020",
+  "gridMajorLineColor": "#00000050",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true
+ },
+ "grid-print": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 4,
+  "gridHeight": 5,
+  "gridLineWidth": 0.15,
+  "gridLineColor": "#999999",
+  "gridMajorLineColor": "#000000",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true
+ },
+ "bounds": {
+  "useOutputBounds": false,
+  "boundsLeft": 45,
+  "boundsRight": 93,
+  "boundsTop": 24,
+  "boundsBottom": 51
+ },
+ "pdf-export": {
+  "useOutputBounds": false,
+  "gridNumber": true,
+  "pageSize": "A4",
+  "landscape": false,
+  "leftMargin": 10,
+  "rightMargin": 10,
+  "topMargin": 17,
+  "bottomMargin": 12
+ },
+ "view": {
+  "viewMode": 3,
+  "crosshair": false,
+  "oneToOne": false,
+  "oneToTwo": false,
+  "stitchColor": "#000000",
+  "selectionColor": "#000000ff",
+  "cursorColor": "#ff0000ff",
+  "overlayStitchColor": "#999999",
+  "pivotColor": "#ff0000",
+  "openFromToolbar": "storage",
+  "saveFromToolbar": "templates",
+  "askWhenClosing": false,
+  "zoomValue": 1
+ }
+}</foreignObject>
+<foreignObject id="kogin-data" visibility="hidden">
+{"application":"kogin","data":[{"layer":true,"name":"Layer 1","visible":true,"locked":false,"x":0,"y":0,"children":[{"x":3,"y":3,"children":[{"ref":"2-000000","coords":[[18,0],[18,18]]},{"ref":"6-000000","coords":[[16,1],[16,17]]},{"ref":"4-000000","coords":[[14,2],[20,2],[12,3],[22,3],[10,4],[24,4],[8,5],[26,5],[6,6],[28,6],[4,7],[30,7],[2,8],[32,8],[0,9],[34,9],[2,10],[32,10],[4,11],[30,11],[6,12],[28,12],[8,13],[26,13],[10,14],[24,14],[12,15],[22,15],[14,16],[20,16]]}]},{"ref":"2-000000","coords":[[23,16],[25,15],[27,14],[29,13],[21,17],[19,16],[17,15],[15,14],[13,13],[11,12],[13,11],[15,10],[17,9],[19,8],[21,7],[23,8],[25,9],[27,10],[29,11],[31,12],[21,15],[19,14],[23,14],[19,10],[23,10],[21,9]]},{"ref":"4-000000","coords":[[17,13],[23,13],[17,11],[23,11]]},{"ref":"6-000000","coords":[[15,12],[23,12]]}]}],"defs":{"single":[{"length":"2","colors":["#000000"]},{"length":"4","colors":["#000000"]},{"length":"6","colors":["#000000"]}]},"pivots":[[3,12],[21,21],[41,12],[21,3]],"bbox":[3,3,38,19]}</foreignObject>
+<foreignObject id="kogin-metadata" visibility="hidden">
+{
+ "title": "型コ 19",
+ "title-en": "katako 19",
+ "creationDate": "2022-10-26 15:05",
+ "author": "",
+ "license": "",
+ "keyword": "",
+ "description": "",
+ "version": "",
+ "copyright": "",
+ "type": ""
+}</foreignObject>
+</svg>
